@@ -4,4 +4,5 @@
 - NLP\_Assignments
 
 ## CSCI 5996 - Special Topics: Fundamentals of Deep Learning (Fall 2025)
+- Homework\_Propagation
 - Homework\_CNN
